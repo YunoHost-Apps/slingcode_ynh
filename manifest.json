@@ -10,8 +10,8 @@
     "version": "0.0.1~ynh1",
     "license": "MIT",
     "maintainer": {
-        "name": "",
-        "email": ""
+        "name": "eric_G",
+        "email": "ericgaspar@free.fr"
     },
     "requirements": {
         "yunohost": ">= 3.8.0"

@@ -12,6 +12,8 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pas de composant serveur, ce qui signifie que toutes vos données sont stockées dans le cache de votre navigateur. Cependant, il est toujours possible de créer des applications Web, de les exécuter, de les exporter et même de les partager en peer-to-peer.
 
+**Version incluse :** 0.0.1
+
 ## Captures d’écran
 
 ![](sources/Screenshot.png)
@@ -20,11 +22,13 @@ Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pa
 
 * [Démo officielle](https://slingcode.net/slingcode.html)
 
+## Documentation
+
  * Documentation officielle : https://slingcode.net/screencasts.html
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/slingcode%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/appsslingcode/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/slingcode%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/slingcode/)
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/slingcode%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/slingcode/)
 
 ## Liens

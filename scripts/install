@@ -64,7 +64,7 @@ cp -a ../sources/slingcode.html $final_path/slingcode.html
 #=================================================
 ynh_script_progression --message="Configuring NGINX web server..." --weight=2
 
-# Create a dedicated nginx config
+# Create a dedicated NGINX config
 ynh_add_nginx_config
 
 #=================================================

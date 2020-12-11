@@ -45,4 +45,4 @@ ynh_backup --src_path="/etc/nginx/conf.d/$domain.d/$app.conf"
 # END OF SCRIPT
 #=================================================
 
-ynh_script_progression --message="Backup script completed for $app. (YunoHost will then actually copy those files to the archive)." --last
+ynh_print_info --message="Backup script completed for $app. (YunoHost will then actually copy those files to the archive)."

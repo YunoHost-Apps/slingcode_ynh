@@ -7,7 +7,7 @@
         "fr": "Éditeur de code en ligne contenu dans un seul fichier HTML"
     },
     "url": "https://github.com/chr15m/slingcode",
-    "version": "0.2.2~ynh1",
+    "version": "0.2.2~ynh2",
     "license": "MIT",
     "maintainer": {
         "name": "eric_G",

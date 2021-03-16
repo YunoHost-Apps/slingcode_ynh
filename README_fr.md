@@ -1,7 +1,7 @@
 # Slingcode pour YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)  
-[![Install Slingcode with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=slingcode)
+[![Install Slingcode with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=slingcode)
 
 *[Read this Slingcode in english.](./README.md)* 
 

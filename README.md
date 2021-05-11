@@ -28,8 +28,8 @@ Slingcode is a code editor contained in a single HTML file. Therefore, it has no
 
 #### Supported architectures
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/slingcode%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/slingcode/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/slingcode%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/slingcode/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/slingcode.svg)](https://ci-apps.yunohost.org/ci/apps/slingcode/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/slingcode.svg)](https://ci-apps-arm.yunohost.org/ci/apps/slingcode/)
 
 ## Links
 

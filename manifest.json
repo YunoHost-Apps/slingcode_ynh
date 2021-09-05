@@ -6,15 +6,22 @@
         "en": "Browser based code editor in a single HTML file",
         "fr": "Éditeur de code en ligne contenu dans un seul fichier HTML"
     },
-    "url": "https://github.com/chr15m/slingcode",
+    "url": "https://slingcode.net/",
     "version": "0.2.2~ynh3",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://slingcode.net/",
+        "demo": "https://slingcode.net/slingcode.html",
+        "userdoc": "https://slingcode.net/screencasts.html",
+        "code": "https://github.com/chr15m/slingcode"
+    },
     "license": "MIT",
     "maintainer": {
         "name": "eric_G",
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.1.7"
+        "yunohost": ">= 4.2.4"
     },
     "multi_instance": true,
     "services": [

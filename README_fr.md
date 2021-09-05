@@ -1,44 +1,44 @@
 # Slingcode pour YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)  
-[![Install Slingcode with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=slingcode)
+[![Niveau d'intégration](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)  
+[![Installer Slingcode avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=slingcode)
 
-*[Read this Slingcode in english.](./README.md)* 
+*[Read this readme in english.](./README.md)*
+*[Lire ce readme en français.](./README_fr.md)*
 
-> *Ce package vous permet d’installer Slingcode rapidement et simplement sur un serveur YunoHost.  
-Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
+> *Ce package vous permet d'installer Slingcode rapidement et simplement sur un serveur YunoHost.
+Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
 
-## Vue d’ensemble
+## Vue d'ensemble
 
 Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pas de composant serveur, ce qui signifie que toutes vos données sont stockées dans le cache de votre navigateur. Cependant, il est toujours possible de créer des applications Web, de les exécuter, de les exporter et même de les partager en peer-to-peer.
 
-**Version incluse :** 0.2.2
+### Caractéristiques:
 
-## Captures d’écran
+- Vous pouvez créer, exécuter et partager des applications Web avec.
+- Vous n'avez pas besoin d'outils compliqués pour l'utiliser, juste un navigateur Web.
+- Vous n'avez pas besoin d'un serveur, d'un hébergement ou d'un certificat SSL pour exécuter les applications Web.
+- Vous pouvez mettre Slingcode sur un site Web, l'exécuter à partir d'une clé USB, d'un ordinateur portable ou d'un téléphone, et il n'a pas besoin d'une connexion Internet pour fonctionner.
+- Vous pouvez "ajouter à l'écran d'accueil" dans le navigateur de votre téléphone pour accéder facilement à votre bibliothèque de programmes lors de vos déplacements.
+- Vous pouvez partager des applications peer-to-peer sur WebTorrent.
+- C'est privé. Vous ne partagez que ce que vous choisissez. 
 
-![](sources/Screenshot.png)
 
-## Démo
+**Version incluse :** 0.2.2~ynh3
 
-* [Démo officielle](https://slingcode.net/slingcode.html)
+**Démo :** https://slingcode.net/slingcode.html
 
-## Documentation
+## Captures d'écran
 
- * Documentation officielle : https://slingcode.net/screencasts.html
+![](./doc/screenshots/Screenshot.png)
 
-#### Architectures supportées
+## Documentations et ressources
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/slingcode.svg)](https://ci-apps.yunohost.org/ci/apps/slingcode/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/slingcode.svg)](https://ci-apps-arm.yunohost.org/ci/apps/slingcode/)
-
-## Liens
-
- * Signaler un bug : https://github.com/YunoHost-Apps/slingcode_ynh/issues
- * Site de l'application : https://slingcode.net/
- * Dépôt de l’application principale : https://github.com/chr15m/slingcode
- * Site web YunoHost : https://yunohost.org/
-
----
+* Site officiel de l'app : https://slingcode.net/
+* Documentation officielle utilisateur : https://slingcode.net/screencasts.html
+* Dépôt de code officiel de l'app : https://github.com/chr15m/slingcode
+* Documentation YunoHost pour cette app : https://yunohost.org/app_slingcode
+* Signaler un bug : https://github.com/YunoHost-Apps/slingcode_ynh/issues
 
 ## Informations pour les développeurs
 
@@ -47,6 +47,8 @@ Merci de faire vos pull request sur la [branche testing](https://github.com/Yuno
 Pour essayer la branche testing, procédez comme suit.
 ```
 sudo yunohost app install https://github.com/YunoHost-Apps/slingcode_ynh/tree/testing --debug
-or
+ou
 sudo yunohost app upgrade slingcode -u https://github.com/YunoHost-Apps/slingcode_ynh/tree/testing --debug
 ```
+
+**Plus d'infos sur le packaging d'applications :** https://yunohost.org/packaging_apps

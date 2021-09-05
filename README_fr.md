@@ -24,7 +24,7 @@ Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pa
 - C'est privé. Vous ne partagez que ce que vous choisissez. 
 
 
-**Version incluse :** 0.2.2~ynh3
+**Version incluse :** 0.2.2~ynh4
 
 **Démo :** https://slingcode.net/slingcode.html
 

@@ -28,7 +28,7 @@ Slingcode is a code editor contained in a single HTML file. Therefore, it has no
 - It's private. You only share what you choose.
 
 
-**Shipped version:** 0.2.2~ynh3
+**Shipped version:** 0.2.2~ynh4
 
 **Demo:** https://slingcode.net/slingcode.html
 

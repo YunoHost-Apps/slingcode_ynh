@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Slingcode for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![Working status](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![Working status](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)
+
 [![Install Slingcode with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=slingcode)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -28,7 +29,7 @@ Slingcode is a code editor contained in a single HTML file. Therefore, it has no
 - It's private. You only share what you choose.
 
 
-**Shipped version:** 0.2.2~ynh4
+**Shipped version:** 0.2.2~ynh5
 
 **Demo:** https://slingcode.net/slingcode.html
 

@@ -1,0 +1,47 @@
+packaging_format = 2
+
+id = "slingcode"
+name = "Slingcode"
+description.en = "Browser based code editor in a single HTML file"
+description.fr = "Éditeur de code en ligne contenu dans un seul fichier HTML"
+
+version = "0.2.2~ynh5"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "MIT"
+website = "https://slingcode.net/"
+demo = "https://slingcode.net/slingcode.html"
+userdoc = "https://slingcode.net/screencasts.html"
+code = "https://github.com/chr15m/slingcode"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/slingcode"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"

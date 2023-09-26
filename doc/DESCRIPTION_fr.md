@@ -1,6 +1,6 @@
 Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pas de composant serveur, ce qui signifie que toutes vos données sont stockées dans le cache de votre navigateur. Cependant, il est toujours possible de créer des applications Web, de les exécuter, de les exporter et même de les partager en peer-to-peer.
 
-### Caractéristiques:
+### Caractéristiques :
 
 - Vous pouvez créer, exécuter et partager des applications Web avec.
 - Vous n'avez pas besoin d'outils compliqués pour l'utiliser, juste un navigateur Web.

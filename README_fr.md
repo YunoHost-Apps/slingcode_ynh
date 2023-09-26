@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Slingcode pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/slingcode.svg)](https://dash.yunohost.org/appci/app/slingcode) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/slingcode.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/slingcode.maintain.svg)
+
 [![Installer Slingcode avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=slingcode)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Slingcode rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Slingcode rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pas de composant serveur, ce qui signifie que toutes vos données sont stockées dans le cache de votre navigateur. Cependant, il est toujours possible de créer des applications Web, de les exécuter, de les exporter et même de les partager en peer-to-peer.
 
@@ -32,15 +33,15 @@ Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pa
 
 **Démo :** https://slingcode.net/slingcode.html
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Slingcode](./doc/screenshots/Screenshot.png)
+![Capture d’écran de Slingcode](./doc/screenshots/Screenshot.png)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://slingcode.net/>
+* Site officiel de l’app : <https://slingcode.net/>
 * Documentation officielle utilisateur : <https://slingcode.net/screencasts.html>
-* Dépôt de code officiel de l'app : <https://github.com/chr15m/slingcode>
+* Dépôt de code officiel de l’app : <https://github.com/chr15m/slingcode>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_slingcode>
 * Signaler un bug : <https://github.com/YunoHost-Apps/slingcode_ynh/issues>
 
@@ -56,4 +57,4 @@ ou
 sudo yunohost app upgrade slingcode -u https://github.com/YunoHost-Apps/slingcode_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>

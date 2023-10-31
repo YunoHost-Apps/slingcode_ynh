@@ -42,7 +42,7 @@ Slingcode est un éditeur de code contenu dans un unique fichier HTML. Il n'a pa
 * Site officiel de l’app : <https://slingcode.net/>
 * Documentation officielle utilisateur : <https://slingcode.net/screencasts.html>
 * Dépôt de code officiel de l’app : <https://github.com/chr15m/slingcode>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_slingcode>
+* YunoHost Store: <https://apps.yunohost.org/app/slingcode>
 * Signaler un bug : <https://github.com/YunoHost-Apps/slingcode_ynh/issues>
 
 ## Informations pour les développeurs
